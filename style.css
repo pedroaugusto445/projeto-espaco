@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-image: url('image/fundo.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    width: 1348px;
+    height: 700px;
+    text-align: center;
+}
+
+#titulo {
+    
+}
+
+main {
+    text-align: left;
+}
+
+main p {
+    padding: 5px;
+    font-size: 20px;
+}
+
+main h1  {
+    font-size: 50px;
+}
+
+main h2 {
+    font-size: 35px;
+}
+
+#tim {
+    display: block;
+}
+
+
+
+
