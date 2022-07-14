@@ -1,8 +1,17 @@
+@media (max-width: 450px) {
+    #astronauta {
+        width: 300px;
+    }
+}
+
+
 * {
     margin: 0px;
     padding: 0px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+
 
 ::-webkit-scrollbar {
     width: 0px;
@@ -14,7 +23,7 @@ header {
     background-size: cover;
     background-attachment: fixed;
     max-width: 1400px;
-    min-width: 100px;
+    min-width: 50px;
     height: 700px;
     text-align: center;
 }
@@ -23,11 +32,6 @@ header {
     background-color: black;
     color: white;
     text-align: center;
-}
-
-#astronauta {
-   max-width: 700px;
-   min-width: 100px;
 }
 
 main {
@@ -88,6 +92,7 @@ footer {
     background-color: black;
     text-align: center;
 }
+
 
 
 
